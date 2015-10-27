@@ -2,4 +2,4 @@
 
 #subheader
 
-repositiotry for **software carpentry**
+repository for **software carpentry**
